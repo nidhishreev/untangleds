@@ -1,0 +1,70 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "jquery-flot",
+        "scope": null,
+        "escapedName": "jquery-flot",
+        "name": "jquery-flot",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/nidhishreev/Documents/mean/backup/5:01:2018/untangleds"
+    ]
+  ],
+  "_from": "jquery-flot@latest",
+  "_id": "jquery-flot@0.8.3",
+  "_inCache": true,
+  "_location": "/jquery-flot",
+  "_nodeVersion": "0.12.6",
+  "_npmUser": {
+    "name": "imsky",
+    "email": "hello@imsky.co"
+  },
+  "_npmVersion": "2.11.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "jquery-flot",
+    "scope": null,
+    "escapedName": "jquery-flot",
+    "name": "jquery-flot",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/jquery-flot/-/jquery-flot-0.8.3.tgz",
+  "_shasum": "a273acf43f13190f6e78701869ee24bfef12c22a",
+  "_shrinkwrap": null,
+  "_spec": "jquery-flot",
+  "_where": "/Users/nidhishreev/Documents/mean/backup/5:01:2018/untangleds",
+  "dependencies": {},
+  "deprecated": "flot has been abandoned",
+  "description": "## About ##",
+  "devDependencies": {
+    "jshint": "0.9.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "a273acf43f13190f6e78701869ee24bfef12c22a",
+    "tarball": "https://registry.npmjs.org/jquery-flot/-/jquery-flot-0.8.3.tgz"
+  },
+  "gitHead": "958e5fd43c6dff4bab3e1fd5cb6109df5c1e8003",
+  "main": "jquery.flot.js",
+  "maintainers": [
+    {
+      "name": "imsky",
+      "email": "hello@imsky.co"
+    }
+  ],
+  "name": "jquery-flot",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "make test"
+  },
+  "version": "0.8.3"
+}
